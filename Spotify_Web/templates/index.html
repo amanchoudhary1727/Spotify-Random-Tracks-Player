@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Spotify Random Tracks</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Spotify Random Tracks</h1>
+        <form action="/search" method="post">
+            <label for="artists">Enter artist names separated by commas:</label>
+            <input type="text" id="artists" name="artists" required>
+            <button type="submit">Play</button>
+        </form>
+    </div>
+</body>
+</html>
