@@ -8,6 +8,7 @@ A web application built with Flask that plays random tracks from specified artis
 - Fetch random tracks from the specified artists.
 - Play the selected random tracks using Spotify's playback API.
 - Simple and elegant UI with a blurred background effect.
+- No Playlist or Queue created.
 
 ## Setup and Installation
 
