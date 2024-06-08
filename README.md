@@ -75,4 +75,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Acknowledgments
 
 - [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/#) for the Python library to interact with Spotify's API.
-- [Unsplash](https://unsplash.com) for the background image.
+- [Giphy](https://giphy.com/) for the background image.
